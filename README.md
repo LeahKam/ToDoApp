@@ -28,7 +28,7 @@ Open http://localhost:5173
 - styled-components (styling)
 - fp-ts (functional patterns)
 
-## 🛠️ Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -120,4 +120,4 @@ JSONPlaceholder (free fake API):
 - https://jsonplaceholder.typicode.com/users
 - https://jsonplaceholder.typicode.com/todos
 
-## Author Leah Kamionka
+Author Leah Kamionka
