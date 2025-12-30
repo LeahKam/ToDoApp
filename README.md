@@ -2,15 +2,6 @@
 
 A React TypeScript application that displays a list of users and their TODO items with filtering capabilities and state persistence.
 
-## Quick Start
-
-```bash
-npm install
-npm run dev
-```
-
-Open http://localhost:5173
-
 ## What It Does
 
 - Browse users from JSONPlaceholder API
